@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "potential-enigma",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/potential-enigma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/potential-enigma#readme"
+}
