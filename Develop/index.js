@@ -43,7 +43,6 @@ If you would like more information about this application contact me at: ${email
 For other projects I've developed refer to my GitHub: ${github}
 `;
 
-
 // License functions
 // Function to show the badge at the top of the README
 function licenseBadge(license){
@@ -117,6 +116,6 @@ inquirer.prompt([
 .then((answers) => {
     const readMeContent = generateMarkdown(answers);
     fs.writeFile('README.md', readMeContent, (err) =>
-    err ? console.log(err) : console.log('Successfully creadted README.md!')
+    err ? console.log(err) : console.log('Successfully created your professional README.md!')
     );
 });
