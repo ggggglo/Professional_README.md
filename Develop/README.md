@@ -20,6 +20,7 @@
 
 ## Usage
 
+Detailed video of the application usage: https://drive.google.com/file/d/1_ZftVKl0ugYauYI2As-AAPDlQppqWBjV/view
 
 ## License
 This application is covered under the Apachelicense. 
