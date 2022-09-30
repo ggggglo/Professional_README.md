@@ -51,8 +51,11 @@ function licenseBadge(license){
     } 
 };
 
-// Welcome message for user
-console.log('Welcome to the Professional README Generator')
+// Welcome message for user, displays magenta
+console.log('\x1b[35m', 'Welcome to the Professional README Generator')
+
+// Font color for questions
+console.log('\x1b[37m')
 
 // Questions for user input
 inquirer.prompt([
