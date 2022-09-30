@@ -5,7 +5,7 @@ const fs = require('fs').promises;
 // Constant with parameters to input information from the user answers into the template literal
 const generateMarkdown = ({license, title, description, installation, usage, contribution, test, github, email}) =>
 
-// Template literal for the README.md file 
+// Template literal for the README.md file that will be created
 `
 ${licenseBadge(license)}
 
